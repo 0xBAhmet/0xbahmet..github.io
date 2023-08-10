@@ -425,7 +425,7 @@ body.dark-theme{
     z-index: 10;
 }
 .home__social{
-  height: max-content;  
+  height: fit-content;  
   overflow: hidden;
   position: absolute;
   left: -3rem;
